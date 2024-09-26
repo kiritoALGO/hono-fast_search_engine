@@ -1,0 +1,6 @@
+name = "fast-search-engine"
+cmopatibility_date = "2024-09-24"
+
+[vars]
+UPSTASH_REDIS_REST_TOKEN = AVaFAAIjcDEyMGZlZTM1NzYxOTk0ODZmOGZhZmQzNDcyM2JiNGYzOXAxMA
+UPSTASH_REDIS_REST_URL = https://star-cod-22149.upstash.io
